@@ -1,7 +1,7 @@
-<p>Site Mario Bros.</p>
+<p>Site Cafeteria</p>
 <br>
 <br>
-<h1>Esse foi meu primeiro site aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a></h1>
+<h1>Esse foi mais um projeto de site aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a></h1>
 
 <h2>Tecnologias utilizadas</h2>
 <br>
