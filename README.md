@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  <img src="https://github.com/user-attachments/assets/5c983c16-10e4-4816-96dd-10b52701b21f" width="550px"/>
+  <img src="https://github.com/AntonioLuiz-dev/CAFETERIA/blob/main/img/mockup.jpg?raw=true" width="550px"/>
 
